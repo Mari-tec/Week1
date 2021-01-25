@@ -1,0 +1,134 @@
+.f{
+        background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+}
+
+.nombre{
+	position: absolute;
+	font-family: Impact;
+	font-size: 230%;
+	top: 22%;
+	left: 36%;
+}
+
+.n{
+	position: absolute;
+	font-family: Impact;
+	font-size: 210%;
+	top: 28%;
+	left: 43%;
+}
+
+.no{
+	position: absolute;
+	font-family: Impact;
+	font-size: 210%;
+	top: 34%;
+	left: 48%;
+}
+
+
+.me{
+	position: absolute;
+	top: 6%;
+	left: 41%;
+	  padding:8px;
+   background-color: #f5f5f5;
+   border: 1px solid #999999;
+	
+}
+
+.b1 {
+	position: absolute;
+	top: 50%;
+	left: 37%;
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+font-family: Bebas;
+color: black;
+background-color: #B99A9A;  
+display: block;
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+}
+.b1:hover{
+	background-color: #B97777;
+
+}
+
+.b2 {
+	position: absolute;
+	top: 50%;
+	left: 55%;
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+font-family: Bebas;
+color: black;
+background-color: #B99A9A;  
+display: block;
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+}
+.b2:hover{
+	background-color: #B97777;
+
+}
+
+.b3 {
+	position: absolute;
+	top: 68%;
+	left: 37%;
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+font-family: Bebas;
+color: black;
+background-color: #B99A9A;  
+display: block;
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+}
+.b3:hover{
+	background-color: #B97777;
+
+}
+
+.b4 {
+	position: absolute;
+	top: 68%;
+	left: 55%;
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+font-family: Bebas;
+color: black;
+background-color: #B99A9A;  
+display: block;
+  width: 105px;
+  height: 105px;
+  border-radius: 50%;
+}
+.b4:hover{
+	background-color: #B97777;
+
+
+}
+
+.m{
+	position: absolute;
+	top: 90%;
+	left: 20%;
+	width: 60%;
+	height: 60px;
+	font-family: bebast;
+	font-size: 30px;
+}
+
+
